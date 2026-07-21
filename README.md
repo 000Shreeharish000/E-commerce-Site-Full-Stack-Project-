@@ -121,8 +121,4 @@ The project is currently under finalized development. Still active to receive pu
 - Optimized images and assets
 - Efficient state management
 - Fast development server with Vite
-- Mobile-optimized interactions
 
-
-## 📄 License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
